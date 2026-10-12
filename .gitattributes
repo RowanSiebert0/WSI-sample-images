@@ -1,3 +1,8 @@
 images/**/CMU-1.zip filter=lfs diff=lfs merge=lfs -text
 images/**/HandEcompressed_Scan1.qptiff filter=lfs diff=lfs merge=lfs -text
 images/**/Leica-1.scn filter=lfs diff=lfs merge=lfs -text
+images/**/CMU-3.zip filter=lfs diff=lfs merge=lfs -text
+images/**/Mirax2.2-4-BMP.zip filter=lfs diff=lfs merge=lfs -text
+images/**/H10_HE.qptiff filter=lfs diff=lfs merge=lfs -text
+images/**/H14_HE.qptiff filter=lfs diff=lfs merge=lfs -text
+images/**/H33_HE.qptiff filter=lfs diff=lfs merge=lfs -text
